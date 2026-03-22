@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DR101",
+    "name": "Rajesh Kumar",
+    "gender": "male",
+    "date_of_death": "2023-05-12",
+    "district": "Raipur",
+    "family_id": "F1001"
+  },
+  {
+    "id": "DR102",
+    "name": "Sunil Sharma",
+    "gender": "male",
+    "date_of_death": "2023-01-20",
+    "district": "Bilaspur",
+    "family_id": "F1002"
+  },
+  {
+    "id": "DR103",
+    "name": "Vikram Singh",
+    "gender": "male",
+    "date_of_death": "2022-11-05",
+    "district": "Durg",
+    "family_id": "F1004"
+  }
+]

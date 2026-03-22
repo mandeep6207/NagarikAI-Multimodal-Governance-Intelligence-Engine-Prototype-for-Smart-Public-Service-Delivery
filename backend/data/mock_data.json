@@ -1,0 +1,107 @@
+{
+  "districts": [
+    {"id": "DIST-RAI", "name": "Raipur", "population": 4085000, "area_sq_km": 15190, "division": "Raipur", "tehsils": 17},
+    {"id": "DIST-BIL", "name": "Bilaspur", "population": 2664000, "area_sq_km": 8272, "division": "Bilaspur", "tehsils": 10},
+    {"id": "DIST-DUR", "name": "Durg", "population": 3344000, "area_sq_km": 8702, "division": "Durg", "tehsils": 12},
+    {"id": "DIST-KOR", "name": "Korba", "population": 1207000, "area_sq_km": 7145, "division": "Bilaspur", "tehsils": 5},
+    {"id": "DIST-JAG", "name": "Jagdalpur", "population": 1413000, "area_sq_km": 10755, "division": "Bastar", "tehsils": 7}
+  ],
+  "officers": [
+    {"id": "OFF-RAI-01", "name": "Rajesh Verma", "designation": "Sub-Divisional Magistrate", "district": "Raipur", "department": "Revenue", "phone": "+91-7890134001", "email": "rajesh.verma@cg.gov.in", "performance_score": 87.3},
+    {"id": "OFF-RAI-02", "name": "Priya Sharma", "designation": "Block Development Officer", "district": "Raipur", "department": "Panchayat", "phone": "+91-7890134002", "email": "priya.sharma@cg.gov.in", "performance_score": 91.2},
+    {"id": "OFF-RAI-03", "name": "Vikram Patel", "designation": "Tehsildar", "district": "Raipur", "department": "Social Welfare", "phone": "+91-7890134003", "email": "vikram.patel@cg.gov.in", "performance_score": 78.5},
+    {"id": "OFF-BIL-01", "name": "Anil Mishra", "designation": "Sub-Divisional Magistrate", "district": "Bilaspur", "department": "Revenue", "phone": "+91-7890134004", "email": "anil.mishra@cg.gov.in", "performance_score": 82.1},
+    {"id": "OFF-BIL-02", "name": "Sunita Kumar", "designation": "District Program Officer", "district": "Bilaspur", "department": "Education", "phone": "+91-7890134005", "email": "sunita.kumar@cg.gov.in", "performance_score": 89.7},
+    {"id": "OFF-BIL-03", "name": "Ashok Tiwari", "designation": "Block Development Officer", "district": "Bilaspur", "department": "Agriculture", "phone": "+91-7890134006", "email": "ashok.tiwari@cg.gov.in", "performance_score": 75.8},
+    {"id": "OFF-DUR-01", "name": "Meera Sahu", "designation": "Tehsildar", "district": "Durg", "department": "Revenue", "phone": "+91-7890134007", "email": "meera.sahu@cg.gov.in", "performance_score": 93.4},
+    {"id": "OFF-DUR-02", "name": "Ramesh Yadav", "designation": "Sub-Divisional Magistrate", "district": "Durg", "department": "Water Supply", "phone": "+91-7890134008", "email": "ramesh.yadav@cg.gov.in", "performance_score": 80.2},
+    {"id": "OFF-DUR-03", "name": "Kavita Das", "designation": "District Program Officer", "district": "Durg", "department": "Health", "phone": "+91-7890134009", "email": "kavita.das@cg.gov.in", "performance_score": 86.9},
+    {"id": "OFF-KOR-01", "name": "Deepak Singh", "designation": "Block Development Officer", "district": "Korba", "department": "Electricity", "phone": "+91-7890134010", "email": "deepak.singh@cg.gov.in", "performance_score": 77.4},
+    {"id": "OFF-KOR-02", "name": "Sunil Rajput", "designation": "Tehsildar", "district": "Korba", "department": "Revenue", "phone": "+91-7890134011", "email": "sunil.rajput@cg.gov.in", "performance_score": 84.6},
+    {"id": "OFF-KOR-03", "name": "Anita Thakur", "designation": "Assistant Director", "district": "Korba", "department": "Social Welfare", "phone": "+91-7890134012", "email": "anita.thakur@cg.gov.in", "performance_score": 90.1},
+    {"id": "OFF-JAG-01", "name": "Manoj Dewangan", "designation": "Sub-Divisional Magistrate", "district": "Jagdalpur", "department": "Revenue", "phone": "+91-7890134013", "email": "manoj.dewangan@cg.gov.in", "performance_score": 79.8},
+    {"id": "OFF-JAG-02", "name": "Lakshmi Netam", "designation": "District Program Officer", "district": "Jagdalpur", "department": "Education", "phone": "+91-7890134014", "email": "lakshmi.netam@cg.gov.in", "performance_score": 88.3},
+    {"id": "OFF-JAG-03", "name": "Sanjay Markam", "designation": "Block Development Officer", "district": "Jagdalpur", "department": "Panchayat", "phone": "+91-7890134015", "email": "sanjay.markam@cg.gov.in", "performance_score": 81.7}
+  ],
+  "citizens": [
+    {"id": "CIT-RAI-0001", "name": "Ramesh Verma", "aadhaar": "4521-7832-9014", "mobile": "9876543210", "district": "Raipur", "age": 45, "income": 48000, "gender": "Male"},
+    {"id": "CIT-RAI-0002", "name": "Sunita Patel", "aadhaar": "3245-8901-2367", "mobile": "9876543211", "district": "Raipur", "age": 62, "income": 32000, "gender": "Female"},
+    {"id": "CIT-RAI-0003", "name": "Mohan Sahu", "aadhaar": "5678-1234-5678", "mobile": "9876543212", "district": "Raipur", "age": 35, "income": 72000, "gender": "Male"},
+    {"id": "CIT-BIL-0001", "name": "Priya Sharma", "aadhaar": "6789-2345-6789", "mobile": "9876543213", "district": "Bilaspur", "age": 28, "income": 55000, "gender": "Female"},
+    {"id": "CIT-BIL-0002", "name": "Rajesh Tiwari", "aadhaar": "7890-3456-7890", "mobile": "9876543214", "district": "Bilaspur", "age": 50, "income": 65000, "gender": "Male"},
+    {"id": "CIT-DUR-0001", "name": "Anita Kumar", "aadhaar": "8901-4567-8901", "mobile": "9876543215", "district": "Durg", "age": 55, "income": 42000, "gender": "Female"},
+    {"id": "CIT-DUR-0002", "name": "Sunil Das", "aadhaar": "9012-5678-9012", "mobile": "9876543216", "district": "Durg", "age": 40, "income": 78000, "gender": "Male"},
+    {"id": "CIT-KOR-0001", "name": "Kavita Singh", "aadhaar": "1234-6789-0123", "mobile": "9876543217", "district": "Korba", "age": 33, "income": 38000, "gender": "Female"},
+    {"id": "CIT-KOR-0002", "name": "Deepak Yadav", "aadhaar": "2345-7890-1234", "mobile": "9876543218", "district": "Korba", "age": 60, "income": 25000, "gender": "Male"},
+    {"id": "CIT-JAG-0001", "name": "Meena Thakur", "aadhaar": "3456-8901-2345", "mobile": "9876543219", "district": "Jagdalpur", "age": 42, "income": 45000, "gender": "Female"},
+    {"id": "CIT-JAG-0002", "name": "Ashok Markam", "aadhaar": "4567-9012-3456", "mobile": "9876543220", "district": "Jagdalpur", "age": 68, "income": 28000, "gender": "Male"}
+  ],
+  "schemes": [
+    {
+      "id": "SCH-WP",
+      "name": "Widow Pension",
+      "department": "Social Welfare",
+      "benefit": "₹1,000/month",
+      "description": "Monthly pension for widows below poverty line.",
+      "eligibility_rules": [
+        "Applicant must be a widow",
+        "Age must be 18 years or above",
+        "Annual household income below ₹1,00,000",
+        "Must be a resident of Chhattisgarh"
+      ],
+      "required_documents": ["Aadhaar Card", "Death Certificate of spouse", "Income Certificate", "BPL Certificate", "Bank Passbook"]
+    },
+    {
+      "id": "SCH-OAP",
+      "name": "Old Age Pension",
+      "department": "Social Welfare",
+      "benefit": "₹500–₹700/month",
+      "description": "Monthly pension for senior citizens above 60 years.",
+      "eligibility_rules": [
+        "Age must be 60 years or above",
+        "Annual household income below ₹1,00,000",
+        "Must be a resident of Chhattisgarh"
+      ],
+      "required_documents": ["Aadhaar Card", "Age Proof", "Income Certificate", "BPL Certificate", "Bank Passbook"]
+    },
+    {
+      "id": "SCH-FI",
+      "name": "Farmer Insurance",
+      "department": "Agriculture",
+      "benefit": "Up to ₹2,00,000 crop coverage",
+      "description": "Crop insurance coverage for small and marginal farmers.",
+      "eligibility_rules": [
+        "Must be a registered farmer",
+        "Land holding under 5 acres",
+        "Must have Khasra/Land document"
+      ],
+      "required_documents": ["Aadhaar Card", "Land Document / Khasra", "Bank Passbook", "Crop sowing certificate"]
+    },
+    {
+      "id": "SCH-SC",
+      "name": "Scholarship",
+      "department": "Education",
+      "benefit": "₹5,000–₹20,000/year",
+      "description": "Educational scholarship for SC/ST/OBC students.",
+      "eligibility_rules": [
+        "Student must belong to SC/ST/OBC category",
+        "Annual family income below ₹2,50,000",
+        "Must have secured at least 60% in last exam"
+      ],
+      "required_documents": ["Aadhaar Card", "Mark Sheet", "Caste Certificate", "Income Certificate", "Institution enrollment proof"]
+    },
+    {
+      "id": "SCH-DP",
+      "name": "Disability Pension",
+      "department": "Social Welfare",
+      "benefit": "₹500–₹1,000/month",
+      "description": "Monthly pension for persons with disabilities.",
+      "eligibility_rules": [
+        "Must have 40% or more disability",
+        "Annual household income below ₹1,00,000",
+        "Must be a resident of Chhattisgarh"
+      ],
+      "required_documents": ["Aadhaar Card", "Disability Certificate", "Income Certificate", "Bank Passbook"]
+    }
+  ]
+}

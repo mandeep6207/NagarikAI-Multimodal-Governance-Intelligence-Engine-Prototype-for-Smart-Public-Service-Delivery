@@ -1,0 +1,5 @@
+[
+  { "ration_id": "R1001", "name": "Seeta Devi", "district": "Raipur", "address": "12 A MG Road, Raipur", "family_id": "F1001" },
+  { "ration_id": "R1002", "name": "Mina Sharma", "district": "Bilaspur", "address": "Sec 4, Bilaspur", "family_id": "F1002" },
+  { "ration_id": "R1004", "name": "Puja Singh", "district": "Durg", "address": "Bhillai, Durg", "family_id": "F1004" }
+]

@@ -1,0 +1,6 @@
+[
+  { "aadhaar_id": "A1001", "name": "Sita Devi", "gender": "female", "district": "Raipur", "address": "12/A MG Road, Raipur", "income": 25000, "family_id": "F1001" },
+  { "aadhaar_id": "A1002", "name": "Meena Sharma", "gender": "female", "district": "Bilaspur", "address": "Sector 4, Bilaspur", "income": 30000, "family_id": "F1002" },
+  { "aadhaar_id": "A1003", "name": "Ramesh Singh", "gender": "male", "district": "Durg", "address": "Bhilai, Durg", "income": 150000, "family_id": "F1003" },
+  { "aadhaar_id": "A1004", "name": "Pooja Singh", "gender": "female", "district": "Durg", "address": "Bhilai, Durg", "income": 60000, "family_id": "F1004" }
+]

@@ -2,7 +2,9 @@
 
 ## 📌 Project Description
 
-NagarikAI is an AI-powered governance intelligence platform designed to enhance the Chhattisgarh e-District ecosystem. It integrates multimodal AI capabilities including text, voice, and video processing to improve beneficiary identification, grievance resolution, and citizen service delivery. The system connects fragmented government datasets, automatically identifies eligible citizens for welfare schemes, classifies and routes complaints using NLP, and assists CSC operators with intelligent validation. By introducing an AI intelligence layer over existing systems, NagarikAI enables faster decision-making, reduces delays, improves transparency, and ensures inclusive access to government services, especially for rural and digitally less-literate populations.
+NagarikAI is an AI-powered governance intelligence platform designed to enhance the Chhattisgarh e-District ecosystem. It integrates multimodal AI capabilities including text, voice, and video processing to improve beneficiary identification, grievance resolution, and citizen service delivery. 
+
+The system connects fragmented government datasets, automatically identifies eligible citizens for welfare schemes, classifies and routes complaints using NLP, and assists CSC operators with intelligent validation. By introducing an AI intelligence layer over existing systems, NagarikAI enables faster decision-making, reduces delays, improves transparency, and ensures inclusive access to government services, especially for rural and digitally less-literate populations.
 
 ---
 
@@ -18,7 +20,7 @@ NagarikAI is an AI-powered governance intelligence platform designed to enhance 
 
 ---
 
-# 🧠 System Architecture
+# 🧠 System Architecture (Prototype)
 
 ```
 Citizen / CSC Portal
